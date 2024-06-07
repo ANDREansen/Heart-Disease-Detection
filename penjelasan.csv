@@ -1,0 +1,21 @@
+﻿No,Atribut,Deskripsi,Nilai
+1,Sex,Jenis kelamin tiap pasien ,"0,1"
+,,[1 = laki – laki dan 0 = perempuan],
+2,Cp,Jenis Nyeri ;,"1,2,3,4"
+,,1        = typical angina,
+,,2        = atypical angina,
+,,3        = non-anginal pain,
+,,4        = asymptomatic,
+3,Trestbps,Tekanan Darah dalam mm Hg,94 - 200
+4,Thalach,Denyut Jantung Maksimum  dalam bpm,71 - 202
+5,Exang,Pelatihan induksi Angina,"0,1"
+6,Oldpeak,Depresi ST yang disebabkan oleh olahraga relatif terhadap istirahat,0 - 6.2
+7,Slope,Kemiringan segmen ST pada Pelatihan Puncak,"1,2,3"
+8,Ca,Jumlah pembuluh darah utama yang diwarnai oleh fluoroskopi,0 – 3
+9,Thal,hasil uji tekanan nuklir,"3,6,7"
+,,2        = normal;,
+,,6        = cacat tetap;,
+,,7        = cacat yang dapat dipulihkan,
+10,num,Target Hasil Keputusan Penyakit,"0,1"
+,,1 = Terkena penyakit,
+,,0 = Tidak Terkena penyakit,
